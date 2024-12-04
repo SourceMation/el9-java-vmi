@@ -1,4 +1,4 @@
-# Rocky Linux with default Java VMI
+# Rocky Linux 9 with default Java VMI
 This repo contains virtual machine images and Jenkins pipeline to build them.  
 We offer VMware, VirtualBox and Qemu VMI for your convenience.  
 All images are built once a month using packer(packer.io) and additional scripts.
